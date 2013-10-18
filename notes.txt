@@ -1,0 +1,37 @@
+Design
+
+Programmer banner
+dashboard layout
+Rate
+Log-in
+Sign Up
+Contact Us
+History Lesson
+sexy mandarin Dashboard (copy)
+
+for tomorrow
+
+Design and code:
+
+Sign-in
+Sign-Up
+Plan Rate
+Copy Sexy mandarin Dashboard
+
+
+
+Reminder : 
+set the background color of the body to gray
+
+
+-----------------------------------------------
+Task to do 
+
+ - Design and Code the DashBoard
+ - Design and code the Rate Page
+ - Design and code Sign-in, Sign-Up, Contact Us Page
+ - Edit the translated version of the picture.
+ - Change the text to Mandarin
+ - For teachers page design fuse www.gchina.jp and sexymandarin.com
+ - Design
+
